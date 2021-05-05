@@ -14,8 +14,8 @@
   -  Pandas
   -  SQL
   -  Data Pipelines Extract Transform and Load (ETL)
-  -  Buidling Automated Systems and 
-  -  Credit Bureau Software
+  -  Credit Bureau Software and 
+  -  Buidling Automated Systems
 - 📫 How to reach me: +234-807-903-3337 toloruntotosho@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Music lover and loves to cook
