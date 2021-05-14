@@ -13,7 +13,7 @@
   -  Python Programming Language
   -  Pandas
   -  SQL
-  -  Data Pipelines Extract Transform and Load (ETL)
+  -  Automated Data Pipelines & Extract Transform and Load (ETL) Processes
   -  Credit Bureau Software and 
   -  Buidling Automated Systems
 - 📫 How to reach me: +234-807-903-3337 toloruntotosho@gmail.com 
