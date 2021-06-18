@@ -10,7 +10,7 @@
 - 💬 Ask me about:
   -  System Architecture
   -  Working with Large Volumes of data in both SQL and NoSQL DBMS
-  -  Python Programming Language
+  -  Python Programming Language & Frameworks
   -  Pandas
   -  SQL
   -  Automated Data Pipelines & Extract Transform and Load (ETL) Processes
