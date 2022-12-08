@@ -17,6 +17,7 @@
   -  Working with Large Volumes of data in both SQL and NoSQL DBMS
   -  Golang
   -  Python Programming Language & Frameworks
+  -  Dagster
   -  Pandas
   -  SQL
   -  Automated Data Pipelines & Extract Transform and Load (ETL) Processes
