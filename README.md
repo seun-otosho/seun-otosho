@@ -25,4 +25,4 @@
 <!-- - 😄 Pronouns: He/Him -->
 - ⚡ Fun fact: Music lover and loves to cook
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=seun-otosho&theme=dark&show_icons=true)
