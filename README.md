@@ -3,7 +3,7 @@
 
 <!-- Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Data Strategy (Process to Collect, Analyse and Store (Electricity Grid)  Utililty and Customer Information of an entire country in sub sahara Africa.
+- 🔭 Welcome to one of my spaces. You can call me a Technology Solutions Provider, Tech Daddy: husbae and girls dad.
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
