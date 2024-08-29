@@ -9,17 +9,17 @@
 - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about:
   -  System Architecture
+  -  DevOps & SRE
   -  Data Strategy: Implementaiton and Operations
   -  Data Engineering
   -  Utility: Electricity Grid Network, System and Technology
-  -  Credit Bureau Software and 
+  -  Credit Bureau Software
+  -  Energy Tech 
   -  Buidling Automated Systems
   -  Working with Large Volumes of data in both SQL and NoSQL DBMS
   -  Golang
   -  Python Programming Language & Frameworks
-  -  Dagster
-  -  Pandas
-  -  SQL
+  -  Prompt Engineering
   -  Automated Data Pipelines & Extract Transform and Load (ETL) Processes
 - 📫 How to reach me: +234-817-903-3337 toloruntotosho@gmail.com 
 <!-- - 😄 Pronouns: He/Him -->
