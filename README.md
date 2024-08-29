@@ -21,7 +21,7 @@
   -  Python Programming Language & Frameworks
   -  Prompt Engineering
   -  Automated Data Pipelines & Extract Transform and Load (ETL) Processes
-- 📫 How to reach me: +234-817-903-3337 toloruntotosho@gmail.com 
+- 📫 How to reach me: +234-817-903-3337 oseuntotosho@gmail.com 
 <!-- - 😄 Pronouns: He/Him -->
 - ⚡ Fun fact: Music lover and loves to cook
 
